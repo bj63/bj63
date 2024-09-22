@@ -46,8 +46,8 @@ A passionate (aspiring) full-stack developer from Louisiana
 [GitHub Repo](https://github.com/bj63/pupz)
 - Pupz is a web-based application designed for dog enthusiasts, particularly fans of specific breeds like the American Bully.
 - Users can create and manage dog profiles, upload pictures, and search for dogs by breed.
--Admins have access to a dashboard where they can manage users and their dogs.
--Built with Java Spring Boot, JPA, Hibernate, and MySQL.
+- Admins have access to a dashboard where they can manage users and their dogs.
+- Built with Java Spring Boot, JPA, Hibernate, and MySQL.
 
 ### LSU Football Championship Sports Page
 [GitHub Repo](https://github.com/bj63/blog)
