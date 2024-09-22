@@ -49,6 +49,11 @@ A passionate (aspiring) full-stack developer from Louisiana
 - Admins have access to a dashboard where they can manage users and their dogs.
 - Built with Java Spring Boot, JPA, Hibernate, and MySQL.
 
+### 1000 Hours Of Per Scholas Classwork
+[GitHub Repo](https://github.com/bj63/)
+
+
+
 ### LSU Football Championship Sports Page
 [GitHub Repo](https://github.com/bj63/blog)
 - Developed a sports page highlighting the 2019 LSU football championship
