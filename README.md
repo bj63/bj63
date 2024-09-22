@@ -4,7 +4,7 @@
 
 A passionate (aspiring) full-stack developer from Louisiana
 
-![Spider-Man: Across the Spider-Verse](https://media.giphy.com/media/ybAqwDKfT42AhiI8xx/giphy.gif)
+![Spider-Man: Across the Spider-Verse](https://giphy.com/gifs/computer-l-UUNlWv7pmr516)
 
 ## About Me
 
