@@ -50,9 +50,8 @@ A passionate (aspiring) full-stack developer from Louisiana
 - Built with Java Spring Boot, JPA, Hibernate, and MySQL.
 
 ### 1000 Hours Of Per Scholas Classwork
-[GitHub Repo](https://github.com/bj63/)
-
-
+[GitHub Repo](https://github.com/bj63/2024-RTT-62-BjayS)
+- During my Full Stack Java Developer training at Per Scholas, I gained proficiency in Java programming, Spring Boot, and front-end technologies such as HTML, CSS, and JavaScript. The coursework included building full-stack applications, integrating RESTful APIs, and managing databases with MySQL. I participated in coding challenges, collaborated on team projects, and presented a capstone project that involved developing a comprehensive web application. My training also focused on agile methodologies, version control with Git, and deployment using cloud services.During my Full Stack Java Developer training at Per Scholas, I gained proficiency in Java programming, Spring Boot, and front-end technologies such as HTML, CSS, and JavaScript. The coursework included building full-stack applications, integrating RESTful APIs, and managing databases with MySQL. I participated in coding challenges, collaborated on team projects, and presented a capstone project that involved developing a comprehensive web application. My training also focused on agile methodologies, version control with Git, and deployment using cloud services.
 
 ### LSU Football Championship Sports Page
 [GitHub Repo](https://github.com/bj63/blog)
