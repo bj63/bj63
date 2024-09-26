@@ -60,15 +60,18 @@ This application is designed to manage and track collections of sports cards, al
 Plans for future improvements include additional social media integrations and more advanced user collection analytics.
 
 ## Screenshots
-
 ### Navigation Bar
-![Navigation Bar](2024-RTT-62-BjayS/main/cards/src/main/webapp/pub/img/ANav.png)
 
-### Back of a Card
-![Back of a Card](cards/src/main/webapp/pub/img/back.png)
+![Screen Shot 2024-09-25 at 9 11 58 PM](https://github.com/user-attachments/assets/0ccf300b-63a5-481f-a3ec-8c1a04853869)
 
 ### Front of a Card
-![Front of a Card](cards/src/main/webapp/pub/img/front.png)
+![Screen Shot 2024-09-25 at 9 12 36 PM](https://github.com/user-attachments/assets/fca6655b-c626-47b1-bcbf-c2682a5f90df)
+
+
+### Back of a Card
+![Screen Shot 2024-09-25 at 9 17 19 PM](https://github.com/user-attachments/assets/6ffd3a68-3a20-4853-8e34-3bf62f8d01dd)
+
+
 
 ## Features
 - User authentication...
