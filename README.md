@@ -45,6 +45,7 @@ A passionate (aspiring) full-stack developer from Louisiana
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bj63&layout=compact)
 
 ## Projects
+
 # Sports Card Collection Web App
 
 This application is designed to manage and track collections of sports cards, allowing users to log in, create accounts, and manage their collections.
@@ -72,10 +73,10 @@ Plans for future improvements include additional social media integrations and m
 ![Screen Shot 2024-09-25 at 9 17 19 PM](https://github.com/user-attachments/assets/6ffd3a68-3a20-4853-8e34-3bf62f8d01dd)
 
 
+## Future Enhancements
 
-## Features
-- User authentication...
-- Card management...
+Plans for future improvements include additional social media integrations and more advanced user collection analytics.
+
 
 
 ### Pupz: A Web App for Dog Lovers
