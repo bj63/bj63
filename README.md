@@ -51,6 +51,16 @@ A passionate (aspiring) full-stack developer from Louisiana
 
 This application is designed to manage and track collections of sports cards, allowing users to log in, create accounts, and manage their collections.
 
+## Languages and Tools:
+
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="Spring" width="26px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<br />
+
 ## Features
 
 - **Home Page**: Displays an overview of the application with navigation links.
