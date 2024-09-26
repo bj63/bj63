@@ -45,6 +45,35 @@ A passionate (aspiring) full-stack developer from Louisiana
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bj63&layout=compact)
 
 ## Projects
+# Sports Card Collection Web App
+
+This application is designed to manage and track collections of sports cards, allowing users to log in, create accounts, and manage their collections.
+
+## Features
+
+- **Home Page**: Displays an overview of the application with navigation links.
+- **User Authentication**: Users can log in and create an account.
+- **Card Management**: Users can search for cards, edit card details, and view their collections.
+- **Admin Panel**: Admin users can manage users and cards, view dashboards, and make adjustments.
+## Future Enhancements
+
+Plans for future improvements include additional social media integrations and more advanced user collection analytics.
+
+## Screenshots
+
+### Navigation Bar
+![Navigation Bar](2024-RTT-62-BjayS/main/cards/src/main/webapp/pub/img/ANav.png)
+
+### Back of a Card
+![Back of a Card](cards/src/main/webapp/pub/img/back.png)
+
+### Front of a Card
+![Front of a Card](cards/src/main/webapp/pub/img/front.png)
+
+## Features
+- User authentication...
+- Card management...
+
 
 ### Pupz: A Web App for Dog Lovers
 [GitHub Repo](https://github.com/bj63/pupz)
