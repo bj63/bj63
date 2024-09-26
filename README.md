@@ -47,6 +47,7 @@ A passionate (aspiring) full-stack developer from Louisiana
 ## Projects
 
 # Sports Card Collection Web App
+[GitHub Repo](https://github.com/bj63/2024-RTT-62-BjayS/tree/main/cards/src/main)
 
 This application is designed to manage and track collections of sports cards, allowing users to log in, create accounts, and manage their collections.
 
