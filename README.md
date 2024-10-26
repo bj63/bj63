@@ -1,6 +1,7 @@
 # Hi, I'm Berwick 👋
 
-🚀 Junior Software Engineer | 💻 Full-stack Developer | 🌟 Problem Solver
+🚀 Junior Software Engineer | 💻 Full-stack Developer | 🌟 Problem Solver | ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bj63)
+
 
 A passionate (aspiring) full-stack developer from Louisiana
 
